@@ -27,6 +27,34 @@ communication interfaces.
 
 ---
 
+## Getting Started
+
+### Required Hardware
+
+>The following instructions assume, for simplicity, the existence of an available USB Type-A port on the host device. Use of an adapter providing a USB Type-A port to USB-C connector should also work.
+
+A **USB Mini-B to Type-A cable** is required for connection between the development board and the host device. The USB Mini-B connector plugs into the USB Mini-B port, flat side up, i.e., away from the PCB.
+
+![USB Mini-B port](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USB_Mini-B_receptacle.svg/134px-USB_Mini-B_receptacle.svg.png)
+
+![USB Type-A connector](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/USB_Type-A_receptacle_Black.svg/150px-USB_Type-A_receptacle_Black.svg.png)
+
+### Required Software
+
+#### macOS
+
+>TODO
+
+#### Windows
+
+>TODO
+
+#### Linux
+
+>TODO
+
+---
+
 ## License
 
 [MIT License](https://spdx.org/licenses/MIT.html)
