@@ -7,7 +7,9 @@ family of Arm(R) Cortex(R)-M4 MCUs with FPU.
 
 ---
 
-## MCU Description
+## `STM32F407VGT6`
+
+### General Description
 
 The STM32F405xx and STM32F407xx family is based on the high-performance Arm(R)
 Cortex(R)-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex(R)-M4
@@ -25,6 +27,14 @@ All devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-p
 a true random number generator (RNG). They also feature standard and advanced
 communication interfaces.
 
+### Reference Manual
+
+* [RM0090 Reference manual](https://www.st.com/resource/en/reference_manual/rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics.pdf), includes: 
+  * STM32F405 / 415
+  * STM32F407 / 417
+  * STM32F427 / 437
+  * STM32F429 / 439
+  
 ---
 
 ## Getting Started
