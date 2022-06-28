@@ -11,21 +11,21 @@ family of Arm(R) Cortex(R)-M4 MCUs with FPU.
 
 ### General Description
 
-The `STM32F405xx` and `STM32F407xx` family is based on the high-performance Arm(R)
+_The `STM32F405xx` and `STM32F407xx` family is based on the high-performance Arm(R)
 Cortex(R)-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex(R)-M4
 core features a single-precision floating point unit (FPU) which supports all Arm single-
 precision data-processing instructions and data types. It also implements a full set of DSP
-instructions and a memory protection unit (MPU) which enhances application security.
+instructions and a memory protection unit (MPU) which enhances application security._
 
-The `STM32F405xx` and `STM32F407xx` family incorporates high-speed embedded
+_The `STM32F405xx` and `STM32F407xx` family incorporates high-speed embedded
 memories (flash memory up to 1 Mbyte, up to 192 Kbytes of SRAM), up to 4 Kbytes of
 backup SRAM, and an extensive range of enhanced I/Os and peripherals connected to two
-APB buses, three AHB buses and a 32-bit multi-AHB bus matrix.
+APB buses, three AHB buses and a 32-bit multi-AHB bus matrix._
 
-All devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-purpose
+_All devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-purpose
 16-bit timers including two PWM timers for motor control, two general-purpose 32-bit timers.
 a true random number generator (RNG). They also feature standard and advanced
-communication interfaces.
+communication interfaces._
 
 ### Reference Manual
 
