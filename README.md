@@ -30,10 +30,10 @@ communication interfaces._
 ### Reference Manual
 
 * [RM0090 Reference manual](https://www.st.com/resource/en/reference_manual/rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics.pdf), includes: 
-  * STM32F405 / 415
-  * STM32F407 / 417
-  * STM32F427 / 437
-  * STM32F429 / 439
+  * `STM32F405 / F415`
+  * `STM32F407 / F417`
+  * `STM32F427 / F437`
+  * `STM32F429 / F439`
   
 ---
 
