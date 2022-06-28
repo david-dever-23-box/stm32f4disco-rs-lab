@@ -2,7 +2,7 @@
 
 Personal lab monorepo containing Rust applications and crates for the STMicroelectronics
 [STM32F4DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f4discovery.html) development board,
-featuring the 72 MHz [STM32F405xx/STM32F407xx](https://www.st.com/resource/en/datasheet/stm32f407vg.pdf)
+featuring the 72 MHz [STM32F405xx / STM32F407xx](https://www.st.com/resource/en/datasheet/stm32f407vg.pdf)
 family of Arm(R) Cortex(R)-M4 MCUs with FPU.
 
 ---
@@ -29,7 +29,7 @@ communication interfaces._
 
 ### Reference Manual
 
-* [RM0090 Reference manual](https://www.st.com/resource/en/reference_manual/rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics.pdf), includes: 
+* [RM0090 Reference manual](https://www.st.com/resource/en/reference_manual/rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics.pdf), includes:
   * `STM32F405 / F415`
   * `STM32F407 / F417`
   * `STM32F427 / F437`
